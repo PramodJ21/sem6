@@ -1,0 +1,15 @@
+Frontend
+
+Landing Page
+    User can see the promotional page, the features of the ai what it can do
+    User has the chocie to get started or to login and register directly
+    This page will not be shown if the user is logged in already
+
+Login
+Register
+
+Home Page
+    Upload Image section
+    Profile section
+    Switch to Premium
+    
